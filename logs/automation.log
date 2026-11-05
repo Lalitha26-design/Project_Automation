@@ -1,0 +1,2 @@
+2026-11-05 14:00:20 INFO  hooks.ScenarioHook - Starting scenario: Search for a flight from Hyderabad to Bengaluru
+2026-11-05 14:00:41 INFO  hooks.ScenarioHook - Scenario PASSED: Search for a flight from Hyderabad to Bengaluru
