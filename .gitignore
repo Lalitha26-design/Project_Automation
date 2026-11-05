@@ -1,0 +1,10 @@
+target/
+test-output/
+allure-results/
+allure-report/
+logs/
+.settings/
+.classpath
+.project
+*.class
+*.log
